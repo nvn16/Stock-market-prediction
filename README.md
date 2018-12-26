@@ -1,4 +1,4 @@
-# Stock-market-prediction
+# Stock-market-prediction(Using Python ,Machine Learning )
 
 1: Compiling_data.py:
         this lines of code used to make changes in data so it could be usefull for using and applying Ml algo. on that.
